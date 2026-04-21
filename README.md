@@ -30,7 +30,9 @@ Strengthen underperforming products and regions through targeted promotions and 
 Develop targeted marketing campaigns, loyalty programs, and personalized offers to retain and expand high-value customer segments.
 
 Screenshots
-* 
+* https://github.com/madhavirajeev/Sales-Performance-Dashboard/blob/main/SPD1.jpeg
+* https://github.com/madhavirajeev/Sales-Performance-Dashboard/blob/main/SPD2.jpeg
+* https://github.com/madhavirajeev/Sales-Performance-Dashboard/blob/main/SPD3.jpeg
  
 **Conclusion
 The dashboard effectively highlights both growth opportunities and performance challenges. By addressing return-related risks and leveraging customer insights, the business can enhance profitability, reduce revenue leakage, and achieve more sustainable growth.
