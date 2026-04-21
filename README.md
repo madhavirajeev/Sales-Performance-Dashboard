@@ -1,6 +1,5 @@
-# Sales-Performance-Dashboard
+# Sales Performance Dashboard Summary
 
-**Sales Performance Dashboard – Summary
 **Overview
 This Power BI dashboard provides a comprehensive analysis of retail sales performance across three key areas: Sales Overview, Product & Customer Analysis, and Returns & Performance Analysis. The dashboard integrates multiple datasets (Sales, Products, Customers, Returns, and Targets) to deliver actionable business insights through KPIs, visualizations, and interactive filters.
  
